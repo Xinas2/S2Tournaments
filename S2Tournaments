@@ -1,6 +1,6 @@
 {
 	"Name": "S2 Tournaments",
-	"Version": 1728235177,
+	"Version": 1728406837,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -88,10 +88,10 @@
 				"134",
 				"136",
 				"245",
+				"139",
 				"147",
 				"255",
 				"149",
-				"150",
 				"151",
 				"152",
 				"155",
@@ -102,6 +102,7 @@
 				"169",
 				"170",
 				"171",
+				"172",
 				"174",
 				"175",
 				"243",
@@ -305,7 +306,9 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"211"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
@@ -391,7 +394,6 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"139",
 				"150",
 				"163",
 				"196",
@@ -495,7 +497,6 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"136",
-				"139",
 				"150",
 				"163",
 				"196",
@@ -1279,7 +1280,6 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"136",
-				"139",
 				"150",
 				"163",
 				"196",
@@ -1312,10 +1312,7 @@
 				"126"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [
-				"20",
-				"68"
-			],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -1560,7 +1557,9 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"211"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
@@ -2001,7 +2000,6 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"139",
 				"150",
 				"163",
 				"196",
