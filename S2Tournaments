@@ -1,6 +1,6 @@
 {
 	"Name": "S2 Tournaments",
-	"Version": 1728426356,
+	"Version": 1728438413,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -205,6 +205,10 @@
 				[
 					"181",
 					"163"
+				],
+				[
+					"178",
+					"181"
 				]
 			]
 		}
@@ -3416,10 +3420,3 @@
 				},
 				"Map": {
 					"Addons": []
-				}
-			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
-		}
-	]
-}
