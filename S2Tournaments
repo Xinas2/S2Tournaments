@@ -1,6 +1,6 @@
 {
 	"Name": "S2 Tournaments",
-	"Version": 1728406837,
+	"Version": 1728426356,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -45,7 +45,6 @@
 				"66",
 				"68",
 				"69",
-				"70",
 				"269",
 				"72",
 				"73",
@@ -202,6 +201,10 @@
 				[
 					"181",
 					"184"
+				],
+				[
+					"181",
+					"163"
 				]
 			]
 		}
@@ -324,6 +327,7 @@
 				"61",
 				"64",
 				"65",
+				"70",
 				"76",
 				"97",
 				"92",
@@ -394,6 +398,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
+				"139",
 				"150",
 				"163",
 				"196",
@@ -497,6 +502,7 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"136",
+				"139",
 				"150",
 				"163",
 				"196",
@@ -1237,7 +1243,8 @@
 					"Addons": [
 						1,
 						2,
-						3
+						3,
+						4
 					]
 				},
 				"Med-Kit": {
@@ -1280,6 +1287,7 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"136",
+				"139",
 				"150",
 				"163",
 				"196",
@@ -1351,9 +1359,9 @@
 				},
 				"Toolbox": {
 					"Addons": [
+						0,
 						1,
-						2,
-						3
+						2
 					]
 				},
 				"Key": {
@@ -1502,7 +1510,10 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				297,
-				298
+				298,
+				285,
+				281,
+				279
 			],
 			"ItemWhitelist": [
 				0,
@@ -2000,6 +2011,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
+				"139",
 				"150",
 				"163",
 				"196",
@@ -2626,7 +2638,8 @@
 			"IndividualAddonBans": [
 				558,
 				554,
-				548
+				548,
+				555
 			],
 			"ItemWhitelist": [
 				0,
